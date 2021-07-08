@@ -6,3 +6,4 @@ Build Apps Using React Cli
 3) Make one fake request using https://jsonplaceholder.typicode.com/users
 
 Note: use typescript use es6 use react-navigation, redux(mobx)
+load the result into your git and send it upon completion
